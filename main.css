@@ -10,7 +10,9 @@ body{
     display: flex;
     flex-direction: column;
     align-content: center;
-
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color:#888888
 }
 
 h1{
@@ -31,6 +33,7 @@ header{
     padding: 10px;
     text-align: justify;
     text-justify: auto;
+    margin-top: 20px;
 }
 
 header img{
@@ -62,6 +65,7 @@ aside{
     align-content: center;
     flex-flow: row wrap;
     padding: 10px;
+    margin-top: 20px;
 
 }
 
@@ -72,6 +76,7 @@ article{
     width:500px;
     margin: auto;
     padding: 10px;
+    margin-top: 20px;
 
 }
 
